@@ -1,3 +1,4 @@
+<img src="github-header-image.png" alt="header"/>
 <h1 align="center">Hi 👋, I'm Andy Craig</h1>
 <h3 align="center">A passionate computer engineering grad, with a knack for ML Infra and SWE.</h3>
 
