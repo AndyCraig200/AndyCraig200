@@ -8,7 +8,7 @@
 
 - 👨‍💻 Lead developer of [Cactusapp](https://github.com/Cactus-org/CactusFB), an app to provide small businesses with their own loyalty program. 
 
-- 🏋️‍♀️ I recently completed [WorkoutPal](https://github.com/AndyCraig200/workoutPal-iOS), an AI workout analysis tool that can perform repetition counting, exercise detection through video and caloric estimates. 
+- 🏋️‍♀️ I recently completed [WorkoutPal](https://github.com/AndyCraig200/workoutPal-iOS), an AI workout analysis tool that can perform repetition counting, exercise detection through video and caloric estimates. Site link [here](https://www.cactusapp.ca)
 
 - 👨‍💻 Technical Experience with GCP, ML Infrastructure, Training and Evaluating ML Models, and general software engineering principles.  
 
