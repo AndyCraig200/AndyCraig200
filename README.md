@@ -1,8 +1,6 @@
 <img src="github-header-image.png" alt="header"/>
 <h1 align="center">Hi 👋, I'm Andy Craig</h1>
-<h3 align="center">A passionate computer engineering grad, with a knack for ML Infra and SWE.</h3>
-
-- 🔭 I’m currently working on a [Discord bot!](https://github.com/justincarr010101/Discord_Bot)
+<h3 align="center">A junior software engineer, with a knack for ML Infra and iOS applications.</h3>
 
 - 🌱 I’m currently learning **Javascript and Kubernetes**
 
