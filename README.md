@@ -1,19 +1,21 @@
 <img src="github-header-image.png" alt="header"/>
-<h1 align="center">Hi 👋, I'm Andy Craig</h1>
-<h3 align="center">A junior software engineer, with a knack for ML Infra and iOS applications.</h3>
+# 👋 Hi, I'm Andy Craig
 
-- 🌱 I’m currently learning **Javascript and Kubernetes**
+**Software Engineer at ClearEstate** | AI/ML Enthusiast | Building Tools that Matter
 
-- 👨‍💻 Lead developer of [Cactusapp](https://github.com/Cactus-org/CactusFB), an app to provide small businesses with their own loyalty program. Site link [here](https://www.cactusapp.ca).
+I specialize in creating **agentic AI systems** and **ML-driven applications** that automate workflows and boost developer productivity.
 
-- 🏋️‍♀️ I recently completed [WorkoutPal](https://github.com/AndyCraig200/workoutPal-iOS), an AI workout analysis tool that can perform repetition counting, exercise detection through video and caloric estimates. 
+## 🚀 What I'm Working On
+- 🤖 AI-powered job application automation with **TailorAI**
+- 📄 Intelligent resume optimization using **GPT-4**
+- 💪 Computer vision for workout analysis with **YOLOv8**
+- 🔧 Developer tools and VS Code extensions
 
-- 👨‍💻 Technical Experience with GCP, ML Infrastructure, Training and Evaluating ML Models, and general software engineering principles.  
+## 💻 Tech Stack
+`Next.js` `Python` `TypeScript` `LLMs` `TensorFlow` `Swift` `React`
 
-- 📫 How to reach me **andycraig200@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-- <a href="https://www.linkedin.com/in/andycraig200/">LinkedIn</a>
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/andycraig200)
 
 <p align="left">
 </p>
