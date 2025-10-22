@@ -1,4 +1,4 @@
-<img src="github-header-image.png" alt="header"/>
+<img src="Github Header Banner.png" alt="header"/>
 <h1>👋 Hi, I'm Andy Craig</h1> 
 
 <h2> Software Engineer at ClearEstate | AI/ML Enthusiast </h2>
