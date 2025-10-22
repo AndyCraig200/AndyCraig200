@@ -1,5 +1,5 @@
 <img src="github-header-image.png" alt="header"/>
- 👋 Hi, I'm Andy Craig
+<h1>👋 Hi, I'm Andy Craig</h1> 
 
 **Software Engineer at ClearEstate** | AI/ML Enthusiast | Building Tools that Matter
 
