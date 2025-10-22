@@ -3,7 +3,7 @@
 
 <h2> Software Engineer at ClearEstate | AI/ML Enthusiast </h2>
 
-I specialize in creating **agentic AI systems** and **ML-driven applications** that automate workflows and boost developer productivity.
+I love to create **agentic AI systems** and **ML-driven applications** that automate workflows and boost developer productivity.
 
 ## 🚀 What I'm Working On
 - 🤖 AI-powered job application automation with **TailorAI**
