@@ -1,7 +1,7 @@
 <img src="Github Header Banner.png" alt="header"/>
 <h1>👋 Hi, I'm Andy Craig</h1> 
 
-<h2> Software Engineer at ClearEstate | AI/ML Enthusiast </h2>
+<h2> Software Engineer | AI/ML Enthusiast </h2>
 
 I love to create **agentic AI systems** and **ML-driven applications** that automate workflows and boost developer productivity.
 
