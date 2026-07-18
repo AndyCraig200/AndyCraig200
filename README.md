@@ -1,15 +1,7 @@
 <img src="Github Header Banner.png" alt="header"/>
-<h1>👋 Hi, I'm Andy Craig</h1> 
+<h1>Andy Craig</h1> 
 
-<h2> Software Engineer | AI/ML Enthusiast </h2>
-
-I love to create **agentic AI systems** and **ML-driven applications** that automate workflows and boost developer productivity.
-
-## 🚀 What I'm Working On
-- 🤖 AI-powered job application automation with **TailorAI**
-- 📄 Intelligent resume optimization using **GPT-4**
-- 💪 Computer vision for workout analysis with **YOLOv8**
-- 🔧 Developer tools and VS Code extensions
+<h2> Software Engineer | AI/ML </h2>
 
 ## 💻 Tech Stack
 `Next.js` `Python` `TypeScript` `LLMs` `TensorFlow` `Swift` `React` `PHP` `GCP` `Airflow` `Apache Beam` `Docker` `Kubernetes`
